@@ -1,7 +1,7 @@
 # R script to accompany Intro to R
 # Copy for Skyler Mott
 ######################################################
-
+#
 # You will see that you can put non-executable "comment" lines
 # in your script by putting "#" at the beginning of the lines.
 # 
